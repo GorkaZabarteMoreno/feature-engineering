@@ -1,8 +1,7 @@
-from transformation import data, target
-
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
+
+from machine_learning.features.FeatureEngineering.transformation import data
 
 
 def get_histograms(df: pd.DataFrame, tar: str):

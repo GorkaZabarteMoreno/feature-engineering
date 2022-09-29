@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 
 cols: list = ["fLength", "fWidth", "fSize", "fConc", "fConc1", "fAsym",
